@@ -1,11 +1,8 @@
-title: Your awesome title
+title: Quadratic cycles
 author:
-  name: GitHub User
-  email: your-email@domain.com
+  name: Samuel Lerbet
 description: > # this means to ignore newlines until "show_excerpts:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Blog where I write about whatever interests me—mostly, though not exclusively, mathematics.
 
 show_excerpts: false # set to true to show excerpts on the homepage
 
@@ -16,8 +13,7 @@ minima:
 
   # generate social links in footer
   social_links:
-    twitter: jekyllrb
-    github:  jekyll
+    github:  samuellerbet
     # devto: jekyll
     # dribbble: jekyll
     # facebook: jekyll

@@ -1,29 +1,11 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Welcome to Quadratic cycles!"
 date:   2022-07-03 11:47:30 +0200
 categories: jekyll update
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+<p style="text-align:justify;">I'll start this post by introducing myself—most of the information in this paragraph is on the About page. My name is Samuel, I was born on 8 June, 1999, I am French and I am an <em>élève</em> of the <a href="https://www.math.ens.psl.eu/">Département de mathématiques et applications</a> at the <a href="https://www.ens.psl.eu/">École normale supérieure</a> in Paris as of July 2022. I'll start a Ph.D. in September 2022 under the supervision of <a href="https://www-fourier.univ-grenoble-alpes.fr/~faselj/index.html">Jean Fasel</a> of <a href="https://www.univ-grenoble-alpes.fr/">Université Grenoble Alpes</a>.
 
-Jekyll requires blog post files to be named according to the following format:
+<p style="text-align:justify;">The <em>goal</em> of this blog is to write about whatever subject in which I find myself interested—the usual mission of a blog. I predict that it will mostly be mathematics—if only because I know little about everything else and tend to try not to write about things in which I am not competent— which explains the very mathematically oriented title, but maybe not exclusively. Also, <em>mathematics</em> should be understood in a broad sense: I may also spend some time on “epistemological” observations about the practice of mathematics, both at research level and in general.</p>
 
-`YEAR-MONTH-DAY-title.MARKUP`
-
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
-
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+<p style="text-align:justify;">The <em>title</em> of this blog—<em>Quadratic cycles</em>—comes from my Ph.D. thesis project. I will write about it in another post, hopefully soon.</p>
