@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+My name is Samuel Lerbet. I am an élève of the Département de mathématiques et applications at the École normale supérieure in Paris, and I will start a PhD in September 2022 at Université Grenoble Alpes under the supervision of [Jean Fasel](https://www-fourier.univ-grenoble-alpes.fr/~faselj/index.html). I am interested in algebraic geometry and specifically in the homotopy theory of schemes and related themes: invariants like Morel's motivic Brouwer degree, Chow groups and Chow–Witt groups... The provisional title of my PhD thesis is: “Un analogue réel de la conjecture de Hodge” (in English: “A real analogue of the Hodge conjecture”).
 
 You can find the source code for Minima at GitHub:
 [jekyll][jekyll-organization] /
