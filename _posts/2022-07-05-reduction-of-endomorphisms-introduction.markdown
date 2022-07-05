@@ -2,7 +2,7 @@
 layout: post
 title:  "Reduction of endomorphisms, 0: Introduction"
 date:   2022-07-05 10:41:13 +0200
-categories: reduction-of-endomorphisms-introduction
+categories: reduction-of-endomorphisms
 usemathjax: true
 ---
 <p style="text-align:justify;">This is the first of a series of blog posts about reduction of endomorphisms.</p>
