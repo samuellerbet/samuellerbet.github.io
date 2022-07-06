@@ -2,7 +2,7 @@
 layout: post
 title:  "Finite rings which are products of fields"
 date:   2022-07-06 10:51:46 +0200
-categories: miscellaneous mathématiques
+categories: miscellaneous-mathematics
 usemathjax: true
 ---
 <p style="text-align:justify;">Today, I would like to write about a fun exercise which appeared in the oral part of the entrance “concours” of the École normale supérieure some years before I entered the École (I believe it was two); I guess that it is of second- to third-year undergraduate level.</p>
