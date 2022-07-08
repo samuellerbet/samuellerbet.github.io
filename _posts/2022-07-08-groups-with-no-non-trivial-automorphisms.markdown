@@ -13,9 +13,9 @@ usemathjax: true
 
 <p style="text-align:justify;">I recall the exercise being posed precisely in this way, so as to give as little information about what answer is expected as possible to the candidate.</p>
 
-<p style="text-align:justify;">The moral of the story in this exercise is that in a general group, we do not know many examples of automorphisms. The most well-known (and, to an extent, the mst important) are the <em>inner automorphisms</em>: given an element $g$ of a group $\mathrm{G}$, it is given by $x\mapsto gxg^{-1}$. It is an easy but clever computation that shows that it is indeed a group homomorphism; the inverse of the inner automorphism given by $g$ is then the inner automorphism given by $g^{-1}$.</p>
+<p style="text-align:justify;">The moral of the story in this exercise is that in a general group, we do not know many examples of automorphisms. The most well-known (and, to an extent, the most important) are the <em>inner automorphisms</em>: given an element $g$ of a group $\mathrm{G}$, it is given by $x\mapsto gxg^{-1}$. An easy but clever computation shows that it is indeed a group homomorphism; the inverse of the inner automorphism given by $g$ is then the inner automorphism given by $g^{-1}$.</p>
 
-<p style="text-align:justify;">Assume now that $\mathrm{G}$ is a group with no non-trivial automorphism. In particular, the inter automorphism associated by $g\in\mathrm{G}$ is trivial. It is easy to see that its kernel is the <em>commutator</em> of $g$, that is, the set $\{x\in\mathrm{G},xg=gx\}$. Thus we see that $\mathrm{G}$ is commutative.</p>
+<p style="text-align:justify;">Assume now that $\mathrm{G}$ is a group with no non-trivial automorphism. In particular, the inner automorphism associated with $g\in\mathrm{G}$ is trivial. It is easy to see that its kernel is the <em>commutator</em> of $g$, that is, the set $\{x\in\mathrm{G},xg=gx\}$. Thus we see that $\mathrm{G}$ is commutative.</p>
 
 <p style="text-align:justify;">Now in a commutative group, there is another important automorphism: the inverse $x\mapsto x^{-1}$. By assumption, the inverse is trivial: this means that any element of $\mathrm{G}$ has order at most $2$.</p>
 
