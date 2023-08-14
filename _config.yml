@@ -6,7 +6,7 @@ author:
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
 description: >
-  I am a PhD student at Université Grenoble Alpes and a member of the Institut Fourier. My advisor is Jean Fasel.
+  My professional and personal webpage.
 
 # Build settings
 
