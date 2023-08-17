@@ -1,4 +1,4 @@
-<header class="site-header" style="background-image: url('{{ site.banner | escape | prepend: "/assets/images/rando_moucherotte.png" | relative_url  }}');">
+<header class="site-header">
 
   <div class="wrapper">
     {%- assign default_paths = site.pages | map: "path" -%}
@@ -7,7 +7,7 @@
     <a class="site-title" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
     <div class="img-container">
     {% if site.logo %}
-        <img alt="logo_spec" src="{{ site.logo | escape | prepend: "/assets/img/" | relative_url }}"/>
+        <img alt="site.logo" src="{{ site.logo | escape | prepend: "/assets/img/logo_spec.png" | relative_url }}"/>
     {%- else -%}
         {{ site.tile | escape }}
     {% endif %}
