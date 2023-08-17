@@ -7,7 +7,7 @@
     <a class="site-title" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
     <div class="img-container">
     {% if site.logo %}
-        <img alt="site.logo" src="{{ site.logo | escape | prepend: "/assets/img/logo_spec.png" | relative_url }}"/>
+        <img src="{{ site.logo | escape | prepend: "/assets/img/" | relative_url }}" alt="site.logo">
     {%- else -%}
         {{ site.tile | escape }}
     {% endif %}
