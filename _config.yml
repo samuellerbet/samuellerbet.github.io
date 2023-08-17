@@ -8,6 +8,8 @@ author:
 description: >
   My professional and personal webpage.
 
+site-logo: /assets/images/logo_spec.png 
+
 # Build settings
 
 theme: minima
