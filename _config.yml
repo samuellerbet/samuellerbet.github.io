@@ -18,6 +18,9 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
+url: samuellerbet.github.io
+baseurl: /samuelerbet
+
 # Theme-specific settings
 
 minima:
